@@ -46,7 +46,9 @@ Table of leading apps ranked by overall popularity, including details such as pr
 Well-known games like Clash of Clans, Clash Royale, PUBG Mobile, Plants vs. Zombies 2, and Pokémon GO appear in top spots.
 
 Includes star ratings and review counts for transparent comparison.
-Usage
+
+Usage:
+
 This dashboard is designed to help businesses:
 
 Monitor and compare sales and profit across time periods
